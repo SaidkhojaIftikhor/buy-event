@@ -1,0 +1,19 @@
+{
+    "name": "admin/buy-event-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "core\\": "core"
+        }
+    },
+    "authors": [
+        {
+            "name": "SaidkhojaIftikhor",
+            "email": "saidkhojaiftikhor2002@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*",
+        "ext-readline": "*"
+    }
+}
